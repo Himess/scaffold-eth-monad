@@ -4,7 +4,7 @@ _Concise description of proposed changes, We recommend using screenshots and vid
 
 ## Additional Information
 
-- [ ] I have read the [contributing docs](/https://github.com/monad-developers/scaffold-eth-monad/blob/main/CONTRIBUTING.md) (if this is your first contribution)
+- [ ] I have read the [contributing docs](/https://github.com/monad-developers/scaffold-eth-monad/CONTRIBUTING.md) (if this is your first contribution)
 - [ ] This is not a duplicate of any [existing pull request](https://github.com/monad-developers/scaffold-eth-monad/pulls)
 
 ## Related Issues
